@@ -1,0 +1,24 @@
+11/22/2013 12:39:17 AM ---- Log importu
+Načítají se sady možností z CRM
+ - OK
+Program byl načten
+
+Zadejte název souboru pro import
+Check File Path : H:\CRM/vemex/Vemex/Průvodka_CLP_EAN_17.11.2013_61.xlsx
+File Path Not Empty
+Making Oledb Connection
+ - OK
+ - OK
+Soubor byl načten
+Soubor byl načten
+vytvareni entity cre_creativemagesaudit id: d8601f93-e052-e311-8ab2-78e3b519b0a5
+The conversion from string to decimal overflowed.
+The conversion from string to decimal overflowed.
+The conversion from string to decimal overflowed.
+Soubor nelze načíst, zkontrolujte prosím, jestli není otevřený
+Soubor nelze načíst
+Bylo importováno 0 záznamů
+Bylo importováno 0 záznamů
+
+Program ukončíte libovolnou klávesou
+Object reference not set to an instance of an object.
