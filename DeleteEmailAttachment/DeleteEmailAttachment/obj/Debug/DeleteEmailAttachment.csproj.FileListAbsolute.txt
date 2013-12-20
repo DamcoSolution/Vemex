@@ -1,0 +1,13 @@
+D:\Prem Files\PROJECTS\Damco CRM Implementation\CRM Customized Solutions\DeleteEmailAttachment\DeleteEmailAttachment\bin\Debug\DeleteEmailAttachment.exe.config
+D:\Prem Files\PROJECTS\Damco CRM Implementation\CRM Customized Solutions\DeleteEmailAttachment\DeleteEmailAttachment\bin\Debug\DeleteEmailAttachment.exe
+D:\Prem Files\PROJECTS\Damco CRM Implementation\CRM Customized Solutions\DeleteEmailAttachment\DeleteEmailAttachment\bin\Debug\DeleteEmailAttachment.pdb
+D:\Prem Files\PROJECTS\Damco CRM Implementation\CRM Customized Solutions\DeleteEmailAttachment\DeleteEmailAttachment\bin\Debug\CRMOnline.dll
+D:\Prem Files\PROJECTS\Damco CRM Implementation\CRM Customized Solutions\DeleteEmailAttachment\DeleteEmailAttachment\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Prem Files\PROJECTS\Damco CRM Implementation\CRM Customized Solutions\DeleteEmailAttachment\DeleteEmailAttachment\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Prem Files\PROJECTS\Damco CRM Implementation\CRM Customized Solutions\DeleteEmailAttachment\DeleteEmailAttachment\bin\Debug\CRMOnline.pdb
+D:\Prem Files\PROJECTS\Damco CRM Implementation\CRM Customized Solutions\DeleteEmailAttachment\DeleteEmailAttachment\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Prem Files\PROJECTS\Damco CRM Implementation\CRM Customized Solutions\DeleteEmailAttachment\DeleteEmailAttachment\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\Prem Files\PROJECTS\Damco CRM Implementation\CRM Customized Solutions\DeleteEmailAttachment\DeleteEmailAttachment\obj\Debug\DeleteEmailAttachment.exe
+D:\Prem Files\PROJECTS\Damco CRM Implementation\CRM Customized Solutions\DeleteEmailAttachment\DeleteEmailAttachment\obj\Debug\DeleteEmailAttachment.pdb
+D:\Prem Files\PROJECTS\Damco CRM Implementation\CRM Customized Solutions\DeleteEmailAttachment\DeleteEmailAttachment\obj\Debug\DeleteEmailAttachment.csprojResolveAssemblyReference.cache
+D:\Prem Files\PROJECTS\Damco CRM Implementation\CRM Customized Solutions\DeleteEmailAttachment\DeleteEmailAttachment\bin\Debug\CreativeMages.Xrm.dll
